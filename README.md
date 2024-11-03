@@ -1,1 +1,1 @@
-Go to %APPDATA%\Microsoft\Windows\Recent\AutomaticDestinations And delete all them.
+Run jump.bat file and all sh*t removed asap.
